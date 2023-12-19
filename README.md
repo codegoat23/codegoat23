@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codegoat23&show_icons=true&locale=en" alt="codegoat23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codegoat23&" alt="codegoat23" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Codegoat23&label=Profile%20Views&color=0&icon=4&pretty=true" />
+</a>
