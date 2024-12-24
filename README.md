@@ -2,7 +2,7 @@
 
 Hi there! Welcome to my GitHub profile. I'm Eric Shija, a young and passionate developer just 17 years old. My journey in tech has been an exciting adventure filled with curiosity, creativity, and an eagerness to solve problems through technology. Let me share a little about myself.
 
-## About Me 🥷🏾
+## About Me 😁
 
 - **My Passion**: I believe in solving problems ⚙️ and scaling solutions through technology 👨🏾‍💻 to make a real impact in my community 👥.
 - **What I Do**: I design intuitive UI 🎨 and curate exceptional UX 🖌️ using tools like Figma and lunacy. My focus is always on creating solutions that resonate with users.
