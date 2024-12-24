@@ -1,38 +1,32 @@
-<h1 align="center">Hi 👋, I'm Eric shija</h1>
-<h3 align="center">A passionate frontend developer from Tanzania</h3>
+# Hi, I'm Eric Shija! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codegoat23&label=Profile%20views&color=0e75b6&style=flat" alt="codegoat23" /> </p>
+Hi there! Welcome to my GitHub profile. I'm Eric Shija, a young and passionate developer just 17 years old. My journey in tech has been an exciting adventure filled with curiosity, creativity, and an eagerness to solve problems through technology. Let me share a little about myself.
 
-<p align="left"> <a href="https://twitter.com/codelyf" target="blank"><img src="https://img.shields.io/twitter/follow/codelyf?logo=twitter&style=for-the-badge" alt="codelyf" /></a> </p>
-<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-- 🔭 I’m currently working on Ricfolio studios
+## About Me 🥷🏾
 
-- 🌱 I’m currently learning **python and reactjs**
+- **My Passion**: I believe in solving problems ⚙️ and scaling solutions through technology 👨🏾‍💻 to make a real impact in my community 👥.
+- **What I Do**: I design intuitive UI 🎨 and curate exceptional UX 🖌️ using tools like Figma and lunacy. My focus is always on creating solutions that resonate with users.
+- **Proficiencies**: I’m well-versed in Reactjs ⚛️.
 
-- 👯 I’m looking to collaborate on [Google](google.com)
+## My Journey 🌟
 
-- 👨‍💻 All of my projects are in my github account
+- **Community Building**: My love for tech communities has shaped my journey. I actively looking to build, mentor, and consult for student tech groups. I had like to participate in programs that inspire and educate, reaching out to thousands of students.
+- **Creative Arts**: Beyond coding, I dive into photography 📷, videography 📹, and graphic design. Offline, I express myself through music🎶 and a little dancing.
 
-- 💬 Ask me about **html,js and css**
+## Work In Progress 🚧
 
-- 📫 How to reach me **codesmrt@gmail.com**
+🔭 **Currently Working On**: Building my skills in UI/UX designing and web development especially backend development.
+🌱 **Learning**: Backend development, App development , Database.
+👯 **Collaboration**: Open to working on impactful projects like SaaS, CMS, E-commerce project and Blog systems.
+🤔 **Seeking**: Mentorship to grow career-wise.
 
-- ⚡ Fun fact **I think am funny**
+## Fun Fact ⚡
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codelyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codelyf" height="30" width="40" /></a>
-<a href="https://instagram.com/c.o.d.e_life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.o.d.e_life" height="30" width="40" /></a>
-</p>
+When I was younger, I dreamt of becoming a priest 😆, then an artist, and now here I am—a young software developer passionate about solving problems for my community.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Let’s Connect 📫
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codegoat23&show_icons=true&locale=en&layout=compact" alt="codegoat23" /></p>
+- Email: codesmrt@gmail.com
+- Twitter: [@codelyf23](https://twitter.com/codelyf23)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codegoat23&show_icons=true&locale=en" alt="codegoat23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codegoat23&" alt="codegoat23" /></p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Codegoat23&label=Profile%20Views&color=0&icon=4&pretty=true" />
-</a>
+Thanks for stopping by. Let’s build something amazing together!
