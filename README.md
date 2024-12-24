@@ -10,7 +10,7 @@ Hi there! Welcome to my GitHub profile. I'm Eric Shija, a young and passionate d
 
 ## My Journey 🌟
 
-- **Community Building**: My love for tech communities has shaped my journey. I actively looking to build, mentor, and consult for student tech groups. I had like to participate in programs that inspire and educate, reaching out to thousands of students.
+- **Community Building**: My love for tech communities has shaped my journey. I actively looking to build, mentor, and consult for student tech groups. I really like to participate in programs that inspire and educate, reaching out to thousands of students.
 - **Creative Arts**: Beyond coding, I dive into photography 📷, videography 📹, and graphic design. Offline, I express myself through music🎶 and a little dancing.
 
 ## Work In Progress 🚧
