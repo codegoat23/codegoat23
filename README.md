@@ -16,6 +16,7 @@ Hi there! Welcome to my GitHub profile. I'm Eric Shija, a young and passionate d
 ## Work In Progress 🚧
 
 🔭 **Currently Working On**: Building my skills in UI/UX designing and web development especially backend development.
+
 🌱 **Learning**: Backend development, App development , Database.
 👯 **Collaboration**: Open to working on impactful projects like SaaS, CMS, E-commerce project and Blog systems.
 🤔 **Seeking**: Mentorship to grow career-wise.
